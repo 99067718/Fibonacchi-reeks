@@ -10,3 +10,5 @@ function FibBro(argument)
         currentNumber = output
     }
 }
+alert("hallo")
+FibBro(1)
